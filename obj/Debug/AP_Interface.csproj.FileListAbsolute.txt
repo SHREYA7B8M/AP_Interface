@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Interface\AP_Interface\bin\Debug\AP_Interface.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Interface\AP_Interface\bin\Debug\AP_Interface.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Interface\AP_Interface\bin\Debug\AP_Interface.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Interface\AP_Interface\obj\Debug\AP_Interface.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Interface\AP_Interface\obj\Debug\AP_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Interface\AP_Interface\obj\Debug\AP_Interface.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Interface\AP_Interface\obj\Debug\AP_Interface.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Interface\AP_Interface\obj\Debug\AP_Interface.pdb
